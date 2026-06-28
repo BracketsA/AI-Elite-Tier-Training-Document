@@ -283,7 +283,7 @@ Feigning event attendance is forbidden. Punishments for pretending to participat
 
 PBST can clean up derailed trains if they’re blocking the tracks, preventing other trains from going by. Find the driver’s seat and sit on it, then click “remove train”. You are free to use your taser if somebody is still in the driver’s seat and refuses to remove the train themself.
 
-Nuke trains are an additional danger since the nukes can explode, killing everyone nearby. Remove these trains as quickly as possible **if** any nukes are flashing red. If you see someone trying to explode a nuke train on purpose, you can kill that person without warning.
+Nuke trains are an additional danger since the nukes can explode, killing everyone nearby. Remove these trains as quickly as possible if any nukes are flashing red. If you see someone trying to explode a nuke train on purpose (by shooting the missiles), you can kill that person without warning.
 
 If a nuke train is not posing a threat, the driver should be left alone.
 
