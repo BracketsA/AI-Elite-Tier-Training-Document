@@ -72,14 +72,6 @@ Warnings may be verbal if users can chat, or non-verbal if users cannot chat. No
 - Single warning shot
 - Turning from side-to-side (“no”) while using shift lock or first-person
 
-You are required to provide at least one warning before engaging in combat if the player is not acting aggressively.
-
-ONLY engage in combat if they do not listen and/or begin to attack PBST or visitors.
-
-If activity meets none of the criteria or is not mentioned, then the behavior should be ignored.
-
-**Visitors with the PIA ranktag may never be attacked (even if they’re anti-core). The only exception is self-defense/a T3+ KOS order.**
-
 The following behaviors are warnable:
 - Touching core controls such as fans, coolant, lasers, and other core controls. If, after your warning, they continue to touch controls which is resulting in the temperature heading closer to a meltdown or freezedown, only then can you engage in combat.
 - Outside of blackout events, you may kill visitors after a single warning for turning on the PBCC emergency generators if it is disadvantageous to protecting the core (that is: if the core is not approaching freezedown)
@@ -100,9 +92,18 @@ On a few occasions, you can kill players *without needing to warn them first* if
 - They are igniting cargo boxes or vehicles on fire during TMS chaos raids or PET patrols.
 - (Only when the core is less than 1000° away from melt- or freezedown) They are using the core controls that gives PBST a disadvantage.
 - (Only during melt- or freezedown) They are messing with emergency coolant and rockets at PBCC.
-- PBST may kill people without warnings for disabling the satellite connection during an on-going missile event.
+- They the satellite connection during an on-going missile event.
 - They attack or kill other PBST or visitors, except in the case of self-defense.
-- All PBST warnings are optional in private servers.
+
+All PBST warnings are optional in private servers.
+
+You are required to provide at least one warning before engaging in combat if the player is not acting aggressively.
+
+ONLY engage in combat if they do not listen and/or begin to attack PBST or visitors.
+
+If activity meets none of the criteria or is not mentioned, then the behavior should be ignored.
+
+**Visitors with the PIA ranktag may never be attacked (even if they’re anti-core). The only exception is self-defense/a T3+ KOS order.**
 
 #### Acronyms and Terms
 
@@ -283,9 +284,7 @@ Feigning event attendance is forbidden. Punishments for pretending to participat
 
 PBST can clean up derailed trains if they’re blocking the tracks, preventing other trains from going by. Find the driver’s seat and sit on it, then click “remove train”. You are free to use your taser if somebody is still in the driver’s seat and refuses to remove the train themself.
 
-Nuke trains are an additional danger since the nukes can explode, killing everyone nearby. Remove these trains as quickly as possible if any nukes are flashing red. If you see someone trying to explode a nuke train on purpose (by shooting the missiles), you can kill that person without warning.
-
-If a nuke train is not posing a threat, the driver should be left alone.
+Nuke trains are an additional danger since the nukes can explode, killing everyone nearby. Remove these trains as quickly as possible if any nukes are flashing red. If you see someone trying to explode a nuke train on purpose, you can kill that person without warning.
 
 #### Glitching
 
