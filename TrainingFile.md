@@ -74,7 +74,9 @@ Warnings may be verbal if users can chat, or non-verbal if users cannot chat. No
 
 You are required to provide at least one warning before engaging in combat if the player is not acting aggressively.
 
-ONLY engage in combat if they do not listen and begin to attack PBST or visitors.
+ONLY engage in combat if they do not listen and/or begin to attack PBST or visitors.
+
+If activity meets none of the criteria or is not mentioned, then the behavior should be ignored.
 
 **Visitors with the PIA ranktag may never be attacked (even if they’re anti-core). The only exception is self-defense/a T3+ KOS order.**
 
