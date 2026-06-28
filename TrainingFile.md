@@ -77,9 +77,6 @@ The following behaviors are warnable:
 - Outside of blackout events, you may kill visitors after a single warning for turning on the PBCC emergency generators if it is disadvantageous to protecting the core (that is: if the core is not approaching freezedown)
 - It is a warnable offense to activate the fire suppression system. This means you are required to give one warning to anyone if it is activated falsely.
 - In the case that a button is pushed with several people within proximity of the button, you may warn the entire group.
-- Zombies and TMS members are automatically set on Kill-on-Sight, and require no warning before you confront them.
-
-There are some exceptions where you do not need to provide a warning before shooting someone, listed below:
 
 On a few occasions, you can kill players *without needing to warn them first* if they:
 - Have been warned and killed for changing the core controls to melt- or freezedown (or breaking other rules), and still come back to do the same
@@ -94,6 +91,7 @@ On a few occasions, you can kill players *without needing to warn them first* if
 - (Only during melt- or freezedown) They are messing with emergency coolant and rockets at PBCC.
 - They the satellite connection during an on-going missile event.
 - They attack or kill other PBST or visitors, except in the case of self-defense.
+- Zombies and TMS members are automatically set on Kill-on-Sight, and require no warning before you confront them.
 
 All PBST warnings are optional in private servers.
 
