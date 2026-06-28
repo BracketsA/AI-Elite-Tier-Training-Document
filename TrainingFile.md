@@ -933,6 +933,38 @@ When the patrol is over, you will go into the `#event-cmds` channel on the PBST 
 
 This patrol is hosted in the Pinewood Builders Computer Core (PBCC). The roblox game can be found at https://www.roblox.com/games/17541193/Pinewood-Computer-Core. 
 
+### Areas
+
+The game has many areas beyond its core-related areas.
+
+#### Mainframe
+
+The mainframe is an unimportant area in the game. It's purpose is purely decorational. The mainframe has 3 codes and each of these codes can be entered in the keypad. This area does not influence core operations.
+
+#### Generators
+
+The generators are located right next to cargo bay 1A. This area is vital during a blackout because this is how the facility gets backup power, and that's important for Fans and Coolant. 
+
+#### Cargo Bays
+
+There are multiple cargo bays: 1A, 1B, 1C, 1D, 1E, and VCS (Ventilation Control System)
+
+Many of these cargo bays have cargo that can ignite and burn. 
+
+### Vehicle Types
+
+#### Passenger Train
+
+The passenger train is a train that can hold many players on it. This train doesn't contribute to PBST objectives; it serves as a way to travel around the facility.
+
+#### Cargo Train
+
+The cargo train is a train that has 2 main functions: fuel the generators and resupply coolant if the Coolant Production is not enabled.
+
+#### Nuke Train
+
+The nuke train is a highly dangerous train if lit. However, if driven normally, this train poses no threat. The only way to "light" a nuke train is to set it on fire or to continously shoot it until the missiles begin to flash red.
+
 ### Core Functions
 
 The core has 4 main subsystems that heat and cool it down. These 4 subsystems are Reactor Power (RP), Lasers, Coolant Sector (CS), and Fans. Stabilizing the core is done by taking all of these subsystems and making sure they make the core's net temperature change 0.
