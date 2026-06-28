@@ -812,7 +812,7 @@ Reason:
 
 #### Group Punishments
 
-If a user is breaking the handbook and/or the Discord server rules during the event, they may qualify for a group punishment. If the user is a Trainee or Cadet, they can only have their points deducted if they were warned about their behavior before, but their attendance may still be voided. If the user is Tier 1 or above, they will be punished on the spot.
+If a user is breaking the handbook and/or the Discord server rules during the event, they may qualify for a group punishment. If the user is a Trainee or Cadet, they can only have their points deducted if they were warned about their behavior before, but their attendance may still be voided. If the user is Tier 1 or above, they will be punished on the spot. Additionally, if the user is disobeying orders, but they are not breaking the handbook, they can only get an attendance void.
 
 Here are the different types of punishments:
 - Attendance void
